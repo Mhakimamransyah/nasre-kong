@@ -27,4 +27,4 @@ https://docs.konghq.com/gateway/latest/get-started/rate-limiting/
 ## Load Balancer
 https://docs.konghq.com/gateway/latest/get-started/load-balancing/ 
 
-**CATATAN :** untuk menguji load balancer matikan plugin cache terlebih dahulu karena kalo cache hidup maka kong akan selalu menggunakan cache dan tidak menggunakan servis lainnya
+**CATATAN :** untuk menguji load balancer matikan plugin cache terlebih dahulu karena kalo cache hidup maka kong akan (juga) menggunakan cache dan tidak menggunakan servis lainnya
