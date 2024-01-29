@@ -1,0 +1,7 @@
+go 1.19
+
+use (
+	./facultative-service
+	./facultative-service-2
+	./sdm-service
+)

@@ -1,0 +1,6 @@
+# claim service node modules
+claim-service/node_modules
+
+# log file
+logs/gateway.log
+
